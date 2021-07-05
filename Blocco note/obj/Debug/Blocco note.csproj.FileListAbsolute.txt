@@ -1,0 +1,10 @@
+C:\Users\funki\Desktop\Blocco note\obj\Debug\Blocco note.csproj.AssemblyReference.cache
+C:\Users\funki\Desktop\Blocco note\obj\Debug\Blocco_note.Properties.Resources.resources
+C:\Users\funki\Desktop\Blocco note\obj\Debug\Blocco note.csproj.GenerateResource.cache
+C:\Users\funki\Desktop\Blocco note\obj\Debug\Blocco note.csproj.CoreCompileInputs.cache
+C:\Users\funki\Desktop\Blocco note\obj\Debug\Blocco_note.Home.resources
+C:\Users\funki\Desktop\Blocco note\bin\Debug\notePier!.exe.config
+C:\Users\funki\Desktop\Blocco note\bin\Debug\notePier!.exe
+C:\Users\funki\Desktop\Blocco note\bin\Debug\notePier!.pdb
+C:\Users\funki\Desktop\Blocco note\obj\Debug\notePier!.exe
+C:\Users\funki\Desktop\Blocco note\obj\Debug\notePier!.pdb
